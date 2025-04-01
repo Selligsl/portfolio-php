@@ -6,6 +6,6 @@ Liste pages :
 
 * Accueil
 * Présentation
-* Competences
+* Compétences
 * Projets
 * Contacts
