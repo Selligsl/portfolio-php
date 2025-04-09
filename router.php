@@ -11,12 +11,12 @@
  
  switch ($cleanPath) {
      case '/':
-         echo "Page d'accueil";
+         
          include './templates/home.php';
          break;
      // Filter à partir de la fin de l'URL
      case '/about':
-         echo "Page de présentation";
+         
          include './templates/about.php';
          break;
      case '/skills':
